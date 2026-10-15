@@ -41,7 +41,6 @@ public class Main {
                     System.out.printf("x2 = %.2f%n", x2);
                     break;
         }
-
-
+        System.out.println("Hiii");
     }
 }
